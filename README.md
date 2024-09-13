@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>sam</h1>
+<h1>samuel</h1>
 <p>naveeth</p>
 
 </body>
